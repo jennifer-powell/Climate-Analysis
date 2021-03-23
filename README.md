@@ -14,10 +14,14 @@
     ##### these are the CSV files used
   - ### Folder
     ##### contains app.py- a Flask API based on the queries just developed.
-  - ### .png files
+    ##### cilmate_starter.ipynb- Jupyter Notebook file analyzing precipitation and the weather stations
+  - ### Screenshots
     ##### screenshots of the graphs
-  - ### climate_starter.ipynb
-    ##### Jupyter Notebook file analyzing precipitation and the weather stations
+    
+ - ## Anylysis of data:
+ - ### retrieve the last 12 months of precipitation data
+ - ### calculate the total number of stations
+ - ### find the most active stations
 
 
    
