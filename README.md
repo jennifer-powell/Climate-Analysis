@@ -11,12 +11,12 @@
 
 - ## File overview
   - ### Resources
-    ##### *description of file*
+    ##### these are the CSV files used
   - ### Folder
     ##### contains app.py- a Flask API based on the queries just developed.
-  - ### file three
-    ##### *description of file*
-  - ### file four
+  - ### .png files
+    ##### screenshots of the graphs
+  - ### start
     ##### *description of file*
 
 
