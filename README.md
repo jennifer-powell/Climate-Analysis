@@ -3,11 +3,11 @@
 
 
 - ## Overview
-  - define starting point and end goal
+  - Used Python and SQLAlchemy to do basic climate analysis and data exploration of your climate database. All of the analysis was completed using SQLAlchemy ORM queries, Pandas, and Matplotlib
   
 
 - ## Programs, Languages and tools
-  - Python, SQLAlchemy, Pandas, Matplotlib, 
+  - Python, SQLAlchemy, Pandas, Matplotlib, Flask, JSON, APIs
 
 - ## File overview
   - ### Resources
@@ -16,21 +16,8 @@
     ##### contains app.py- a Flask API based on the queries just developed.
   - ### .png files
     ##### screenshots of the graphs
-  - ### start
-    ##### *description of file*
+  - ### climate_starter.ipynb
+    ##### Jupyter Notebook file analyzing precipitation and the weather stations
 
 
-- ## Steps deployed to reach goal
-    -Used Python and SQLAlchemy to do basic climate analysis and data exploration of your climate database. All of the following analysis should be completed using SQLAlchemy ORM queries, Pandas, and Matplotlib
-    - Step 2
-    - Step 3
-
-- ## Instructions on how to use the program
-    - Step 1
-    - Step 2
-    - Step 3
-
-- ## Findings and conclusion
-    - findings
-    - conclusion
-
+   
