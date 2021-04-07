@@ -1,10 +1,9 @@
-# sqlalchemy-challenge
+# Climate Analysis
 
 
 
 - ## Overview
-  - Used Python and SQLAlchemy to do basic climate analysis and data exploration of your climate database. All of the analysis was completed using SQLAlchemy ORM queries, Pandas, and Matplotlib
-  
+  - Used Python and SQLAlchemy to do basic climate analysis and data exploration of a given climate database. 
 
 - ## Programs, Languages and tools
   - Python, SQLAlchemy, Pandas, Matplotlib, Flask, JSON, APIs
@@ -19,9 +18,9 @@
     ##### screenshots of the graphs
     
  - ## Anylysis of data:
- - ### retrieve the last 12 months of precipitation data
- - ### calculate the total number of stations
- - ### find the most active stations
+ - ### Retrieve the last 12 months of precipitation data
+ - ### Calculate the total number of stations
+ - ### Found the most active stations
 
 
    
